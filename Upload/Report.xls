@@ -1,0 +1,44 @@
+
+ 
+
+<table class="table table-bordered">
+<tr style="background: linear-gradient(225deg, #20cc8a,#4adda5);" class="text-gray-100">
+ 
+  <td >Date</td>
+  <td>Name</td>
+  <td>Room</td>
+  <td>Room Type</td>
+  <td>Arrival - Departure</td>
+  <td>Issued By</td>
+
+  <td>Amount</td>
+
+   </tr>
+<tbody class="table-sm">
+    
+    <tr>
+       
+      <td class="py-2" style="width: 120px;">2021-12-21</td>
+      <td class="py-2" style="width: 160px;">Joshua Daseco</td>
+      <td class="py-2">107</td>
+      <td class="py-2">Presidential</td>
+      <td class="py-2">2021-12-21 - 2021-12-25</td>
+      <td class="py-2">Front Office Staff</td>
+
+      <td class="py-2">23200</td>
+
+   
+     </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Total:</td>
+  <td class="pt-3">23200</td>
+
+  </tr>
+</table>
+  
+ 

@@ -1,0 +1,11 @@
+# HTID:18658822: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:18658822:
+
+RewriteEngine on
+RewriteCond %{REQUEST_FIELNAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+php_flag output_buffering on
+php_value date.timezone 'Asia/Manila'
+
+ 
